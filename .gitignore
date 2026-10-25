@@ -1,0 +1,19 @@
+# --- Data ---
+# raw downloads are rebuilt by the scripts, never committed
+data/raw/
+
+# --- Secrets ---
+.env
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- Tools ---
+.pytest_cache/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
