@@ -10,6 +10,7 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+evoptimiser/
 
 # --- Tools ---
 .pytest_cache/
@@ -17,3 +18,4 @@ venv/
 .vscode/
 .DS_Store
 Thumbs.db
+
